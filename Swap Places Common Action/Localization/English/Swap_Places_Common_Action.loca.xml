@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<!-- "Goon_Swap_Places" --> <content contentuid="he78a47d9gc96cg4a8ag8372g3e412e993f31" version="1">Swap Places</content>
+	<!-- "Goon_Swap_Places" --> <content contentuid="h0286f89dg418dg4bc5g95f7g432aa865a479" version="1">Try to swap places with your target. Your chances depend on your &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;, and are higher if you're &lt;LSTag Type="HIDING" Tooltip=""&gt;Hidden&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;</content>
+	<!-- "Goon_Swap_Places" --> <content contentuid="h17d96380gb757g4bf1g9e74g53d225857708" version="1">Swapping places with allies is guaranteed.</content>
+</contentList>
